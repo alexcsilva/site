@@ -5,5 +5,7 @@
  <br>
  <img src="img/SITE.png" width="350"  style="img:center;" alt="SITE -AlexCSilva | Instituto" title="SITE -AlexCSilva | Instituto">
  <br>
+ ou clique neste link para ser direcionado para o projeto
+ <br>
 https://alexcsilva.github.io/site/
 
