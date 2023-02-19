@@ -1,5 +1,5 @@
 # site
- Site sendo projetado com HTML5, SCSS e JavaScript
+ Site sendo projetado com HTML5, SCSS, JavaScript e Bootstrap 5
  <hr>
  Aponte seu leitor de QR Code para o QRcode abaixo.
  <br>
